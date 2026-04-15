@@ -1,0 +1,15 @@
+{
+  "asset": "PEPECASHCOIN",
+  "name": "PEPECASHCOIN",
+  "description": "PEPECASHCOIN",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/pepemoji/pepecashcoin/main/pepecashcoinnobg_48x48-removebg-preview.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/pepemoji/pepecashcoin/main/pepecashcoinnobg.png"
+    }
+  ]
+}
